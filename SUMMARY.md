@@ -3,7 +3,8 @@
 * Initial page
 * Dashboards
   * [My Dashboard](dashboards/my-dashboard.md)
-  * [Sales Dashboard](dashboards/sales-dashboard.md)
+  * [Sales Dashboard](dashboards/sales-dashboard/README.md)
+    * [Agent Report](dashboards/sales-dashboard/agent-report.md)
 * Recruiting
   * FMO Recruits
   * Trainings
