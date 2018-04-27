@@ -2,9 +2,7 @@
 
 This dashboard looks different depending on the user.
 
-
-
-picture 1 Blank view of My Dashboard Page
+![Blank view of the My Dashboard Page](../.gitbook/assets/2017-08-08-14-16-portal.pplusadvisors.com-1.png)
 
 The standard view includes two panels. On the left is a short listing of upcoming events in the next week. It lists the date, location, and agent in a clickable listing. The right panel has the messaging center, which is also visible from the dropdown of the mail icon from the header. This is currently used to send out updates on the CRM features. You can also send messages to other users in the CRM.
 
