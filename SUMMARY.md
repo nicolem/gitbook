@@ -1,6 +1,6 @@
 # Table of contents
 
-* Initial page
+* Welcome to the Guide
 * Dashboards
   * [My Dashboard](dashboards/my-dashboard.md)
   * [Sales Dashboard](dashboards/sales-dashboard/README.md)
