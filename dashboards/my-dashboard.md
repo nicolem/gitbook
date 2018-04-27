@@ -1,6 +1,10 @@
-# My Dashboard
+---
+description: >-
+  This dashboard is the first page you see after logging in.  It looks different
+  depending on the user.
+---
 
-This dashboard looks different depending on the user.
+# My Dashboard
 
 ![Blank view of the My Dashboard Page](../.gitbook/assets/2017-08-08-14-16-portal.pplusadvisors.com-1.png)
 
