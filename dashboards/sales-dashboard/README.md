@@ -1,6 +1,10 @@
-# Sales Dashboard
+---
+description: >-
+  The sales dashboard gives you an overview of your sales numbers. The columns
+  displayed depend on what product types you sell in your office.
+---
 
-The sales dashboard gives you an overview of your sales numbers. The columns displayed depend on what product types you sell in your office.
+# Sales Dashboard
 
 picture 4 The sales dashboard summarizes your numbers for different products.
 
