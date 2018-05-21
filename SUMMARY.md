@@ -22,7 +22,7 @@
   * [Pipeline Report](reports/pipeline-report.md)
   * [Policy Report](reports/policy-report.md)
   * Private Contract Mailings
-  * Seminar Lead Report
+  * [Seminar Lead Report](reports/seminar-lead-report.md)
 * Administration
   * Staff Members
   * Offices
