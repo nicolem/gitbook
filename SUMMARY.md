@@ -29,7 +29,7 @@
   * [Products](administration/products.md)
   * [Product Types](administration/product-types.md)
   * [Suppliers](administration/suppliers.md)
-  * Tags
+  * [Tags](administration/tags.md)
   * Transfer Sources
   * FMO Databases
 
