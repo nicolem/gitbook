@@ -12,7 +12,7 @@ This report has six columns of information:
 **ZONE** lists the Zone the household belongs to.  
 **TYPE** lists the Product type of the sale.  
 **SALE** lists whether the sale is a Contribution, Opportunity, or Product. **HOUSEHOLD** lists the name of the buyer, and links to their household. AMOUNT is the sale amount.  
-**DATE **is the date of the sale.
+**DATE** is the date of the sale.
 
 The production agent reports also have subtotals dividing the rows by month. The Agent report can also be exported into excel format.
 

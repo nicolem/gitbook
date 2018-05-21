@@ -24,5 +24,5 @@ The columns for each agent are as follows:
 
 **ALL TIME AUM PRODUCTION** lists all closed AUM policies.
 
-**GOAL **is a percentage** **value of the Current Week Written Decided divided by the Agent’s Goal, set in their profile.
+**GOAL** is a percentage ****value of the Current Week Written Decided divided by the Agent’s Goal, set in their profile.
 

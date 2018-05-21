@@ -9,7 +9,7 @@
   * FMO Recruits
   * Trainings
   * Activation Pipeline
-* Households
+* [Households](households.md)
 * Events
 * Campaigns
 * Vendors
