@@ -25,7 +25,7 @@
   * [Seminar Lead Report](reports/seminar-lead-report.md)
 * Administration
   * [Staff Members](administration/staff-members.md)
-  * Offices
+  * [Offices](administration/offices.md)
   * Products
   * Product Types
   * Suppliers
