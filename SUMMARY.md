@@ -27,7 +27,7 @@
   * [Staff Members](administration/staff-members.md)
   * [Offices](administration/offices.md)
   * [Products](administration/products.md)
-  * Product Types
+  * [Product Types](administration/product-types.md)
   * Suppliers
   * Tags
   * Transfer Sources
