@@ -10,7 +10,7 @@
   * Trainings
   * Activation Pipeline
 * [Households](households.md)
-* Events
+* [Events](events.md)
 * Campaigns
 * Vendors
 * Reports
