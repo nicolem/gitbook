@@ -17,7 +17,7 @@
   * [View Exported Reports](reports/view-exported-reports.md)
   * [All Households Report](reports/all-household-reports.md)
   * [Annual Review Scheduling](reports/annual-review-scheduling.md)
-  * Campaign Report
+  * [Campaign Report](reports/campaign-report.md)
   * Client Report
   * Pipeline Report
   * Policy Report
