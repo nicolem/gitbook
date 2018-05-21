@@ -20,7 +20,7 @@
   * [Campaign Report](reports/campaign-report.md)
   * [Client Report](reports/client-report.md)
   * [Pipeline Report](reports/pipeline-report.md)
-  * Policy Report
+  * [Policy Report](reports/policy-report.md)
   * Private Contract Mailings
   * Seminar Lead Report
 * Administration
