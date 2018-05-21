@@ -8,8 +8,6 @@ description: >-
 
 picture 26 Annual Review Scheduling Report view
 
-Pinnacle CRM Guide
-
 ### COLUMNS
 
 The columns are the purchaser’s name, with link to their household, issue date, plan type, product, policy status, policy number, state of business, premium amount, agents and their commissions.
