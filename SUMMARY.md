@@ -30,6 +30,6 @@
   * [Product Types](administration/product-types.md)
   * [Suppliers](administration/suppliers.md)
   * [Tags](administration/tags.md)
-  * Transfer Sources
+  * [Transfer Sources](administration/transfer-sources.md)
   * FMO Databases
 
