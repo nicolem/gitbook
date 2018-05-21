@@ -12,7 +12,7 @@
 * [Households](households.md)
 * [Events](events.md)
 * [Campaigns](campaigns.md)
-* Vendors
+* [Vendors](untitled-1.md)
 * Reports
   * View Exported Reports
   * All Household Reports
