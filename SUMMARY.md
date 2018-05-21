@@ -15,7 +15,7 @@
 * [Vendors](untitled-1.md)
 * Reports
   * [View Exported Reports](reports/view-exported-reports.md)
-  * All Household Reports
+  * [All Households Report](reports/all-household-reports.md)
   * Annual Review Scheduling
   * Campaign Report
   * Client Report
