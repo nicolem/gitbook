@@ -19,7 +19,7 @@
   * [Annual Review Scheduling](reports/annual-review-scheduling.md)
   * [Campaign Report](reports/campaign-report.md)
   * [Client Report](reports/client-report.md)
-  * Pipeline Report
+  * [Pipeline Report](reports/pipeline-report.md)
   * Policy Report
   * Private Contract Mailings
   * Seminar Lead Report
