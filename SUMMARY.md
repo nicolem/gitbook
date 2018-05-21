@@ -11,7 +11,7 @@
   * Activation Pipeline
 * [Households](households.md)
 * [Events](events.md)
-* Campaigns
+* [Campaigns](campaigns.md)
 * Vendors
 * Reports
   * View Exported Reports
