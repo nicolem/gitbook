@@ -18,7 +18,7 @@
   * [All Households Report](reports/all-household-reports.md)
   * [Annual Review Scheduling](reports/annual-review-scheduling.md)
   * [Campaign Report](reports/campaign-report.md)
-  * Client Report
+  * [Client Report](reports/client-report.md)
   * Pipeline Report
   * Policy Report
   * Private Contract Mailings
