@@ -24,7 +24,7 @@
   * Private Contract Mailings
   * [Seminar Lead Report](reports/seminar-lead-report.md)
 * Administration
-  * Staff Members
+  * [Staff Members](administration/staff-members.md)
   * Offices
   * Products
   * Product Types
