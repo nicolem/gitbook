@@ -6,7 +6,7 @@ description: >-
 
 # Sales Dashboard
 
-picture 4 The sales dashboard summarizes your numbers for different products.
+![The sales dashboard summarizes your numbers for different products.](../../.gitbook/assets/sales_dashboard_ppf.png)
 
 The columns for each agent are as follows:
 
